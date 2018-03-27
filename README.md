@@ -1,8 +1,10 @@
 # fz_spider
-方正教务系统爬虫 for AHUT，爬取学生教务信息
 
+The founder system reptile for AHUT,get student's educational administration information.
 update 2018/2/9
-增加了选择其他学期课表的功能
+
+add the choice of selecting other semester.
 
 update 2018/2/13
-增加了课程的更多信息 增加了部分注释
+
+add more information about courses,also add some annotation.
